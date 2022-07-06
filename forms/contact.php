@@ -27,8 +27,8 @@
   
   // $contact->smtp = array(
   //   'host' => 'smtp.gmail.com',
-  //   'username' => 'vips4panchal@gmail.com',
-  //   'password' => '9825625758',
+  //   'username' => 'XXX',
+  //   'password' => 'XXX',
   //   'port' => '587'
   // );
   
